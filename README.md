@@ -156,8 +156,9 @@ NOTE: The download links are present in the <a href"#Installation">Installation<
 </div>
 
 <div id="Execution">
+	<h1>Execution</h1>
 <pre>
-1. Run the jupyter notebbok file that is dog_app.ipynb everything will work fine if you  have met all the requirements.
+1. Run the jupyter notebook file that is dog_app.ipynb everything will work fine if you  have met all the requirements.
 </pre>
 </div>
 <div id="Results">
