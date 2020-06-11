@@ -1,5 +1,5 @@
 <html>
-<h1>How are dogs clssified according to their breeds?</h1>
+<h1>How are dogs classified according to their breeds?</h1>
 
 
 <h1>Table of Contents</h1>
