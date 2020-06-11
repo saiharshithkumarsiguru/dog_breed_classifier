@@ -1,11 +1,6 @@
 <html>
 <h1>How are dogs clssified according to their breeds?</h1>
 
-[//]: # (Image References)
-
-[image1]: ./images/sample_dog_output.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 <h1>Table of Contents</h1>
 <pre>
@@ -21,11 +16,9 @@
 <div id="Description">
 <h1>Description</h1>
 <pre>
+In this project, we will build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images. 
 
-In this project, we will build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, this algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
-
-![Sample Output][image1]
-
+Given an image of a dog, this algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 </pre>
 	
 </div>
@@ -127,7 +120,8 @@ jupyter notebook dog_app.ipynb
 <h1>Project Motivation</h1>
 <pre>
 
-It's really interesting to classify dogs based on their breeds and funnt to compare which dog face it matches,this seems funny  but has got many real world applications.     
+It's really interesting to classify dogs based on their breeds and funny to compare which dog face it matches.
+This seems funny  but has got many real world applications.     
 
 </pre>
 </div>
@@ -146,15 +140,17 @@ images:It contains images
 
 test_images:It contains test images.
 
-haarcascades: It contains files related to detection.
+haarcascades: It contains files related to detection.(please download the haarcascades front faces xml and place in this folder after you create this folder before running main file )
 
-saved_models: It contains our saved models.
+saved_models: It contains our saved models.(please add this folder befor you run the main file). 
 
 dog_app.html: This is html version of our jupyter  notebook.
 
-bottleneck_features : It contains ours VG16 model.
+bottleneck_features : It contains ours VG16 model.(please create this folder download the model file here before running the main file)
 
-requirements: file about requirements.   
+requirements: file about requirements.
+
+NOTE: The download links are present in the <a href"#Installation">Installation</a> section.    
 
 </pre>
 </div>
